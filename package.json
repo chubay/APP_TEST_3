@@ -11,7 +11,7 @@
     "main": "lib/red.js",
     "scripts": {
         "start": "node red.js"
-        //"start": "node-red --settings ./.node-red/settings.js --userDir ./.node-red"
+        
     },
     "bin": {
         "node-red": "./red.js",
