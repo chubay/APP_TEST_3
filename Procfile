@@ -1,1 +1,1 @@
-web: node setting.js
+web: node settings.js
