@@ -10,7 +10,8 @@
     },
     "main": "lib/red.js",
     "scripts": {
-        "start": "node red.js"
+        "start": "node red.js",
+        "web": "node settings.js"
     },
     "bin": {
         "node-red": "./red.js",
