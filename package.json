@@ -10,7 +10,7 @@
     },
     "main": "lib/red.js",
     "scripts": {
-        "start": "node-red --settings ./.node-red/settings.js --userDir ./.node-red"
+        "start": "node red.js"
         
     },
     "bin": {
